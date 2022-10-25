@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Carbon](https://github.com/carbon-language/carbon-lang)
 
-- 👨‍💻 All of my projects are available at [xplority.me](xplority.me)
+- 👨‍💻 All of my projects are available at [https://xplority.me](xplority.me)
 
 - 📫 How to reach me **thewunderboy@pm.me**
 
