@@ -60,4 +60,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thewunderboy&show_icons=true&locale=en" alt="thewunderboy" width="450" height="280"/> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=thewunderboy&" alt="thewunderboy" width="450" height="280" /></p>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=thewunderboy&show_icons=true&locale=en" alt="thewunderboy" width="300" height="250"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=thewunderboy&" alt="thewunderboy" width="300" height="250" />
+</p>
