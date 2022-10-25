@@ -61,6 +61,6 @@
 </p>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=thewunderboy&show_icons=true&locale=en" alt="thewunderboy" width="350" height="250"/>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=thewunderboy&" alt="thewunderboy" width="350" height="250" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=thewunderboy&show_icons=true&locale=en" alt="thewunderboy" width="365" height="250"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=thewunderboy&" alt="thewunderboy" width="365" height="250" />
 </p>
