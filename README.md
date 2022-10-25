@@ -59,7 +59,6 @@
 <a href="https://www.adobe.com/in/products/media-encoder.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/media-encoder.svg" alt="media-encoder" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
-
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=thewunderboy&show_icons=true&locale=en" alt="thewunderboy" width="400" height="300"/>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=thewunderboy&" alt="thewunderboy" width="400" height="300" />
